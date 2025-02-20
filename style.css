@@ -1,0 +1,73 @@
+h1 {
+  padding: 30px;
+  font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: center;
+  color: #A31D1D;
+}
+
+body {
+  background-color: #F8F2DE;
+}
+
+h5{
+  font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: #D84040;
+ }
+
+ p {
+   font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: #D84040;
+ }
+
+ hr {
+  border: 5px solid darkred;
+  border-radius: 5px;
+ }
+
+.container {
+  border-style: solid;
+  padding:30px;
+  margin-top: 40px;
+  border-radius: 15px;
+  border-color: #D84040;
+  background-color: #F8F2DE;
+}
+
+label {
+   font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: #A31D1D;
+ }
+
+ input {
+  font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: left;
+  border-color: #D84040;
+ }
+
+ button {
+  background-color: #D84040;
+  border-color: #A31D1D;
+  font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: #F8F2DE;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 50px;
+ }
